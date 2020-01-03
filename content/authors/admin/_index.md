@@ -47,9 +47,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bc3djm4AAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Wangshu_Tan
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Wangshu_Tan
 - icon: github
   icon_pack: fab
   link: https://github.com/tanws
