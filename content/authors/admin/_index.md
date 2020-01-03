@@ -53,6 +53,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Wangshu_Tan
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/wangshu-tan
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=57194633505
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1456979/wangshu-tan
 - icon: github
   icon_pack: fab
   link: https://github.com/tanws
