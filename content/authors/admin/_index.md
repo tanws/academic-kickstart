@@ -46,7 +46,13 @@ social:
   link: 'mailto:tanws@pku.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=bc3djm4AAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9910-9692
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Wangshu_Tan
 - icon: github
   icon_pack: fab
   link: https://github.com/tanws
@@ -66,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Wangshu Tan
+Wangshu Tan is working on a project about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
