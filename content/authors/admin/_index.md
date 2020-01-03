@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate in Atmosheric Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Peking University
+- name: Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University
   url: "http://www.atmos.pku.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -81,4 +81,5 @@ user_groups:
 - Visitors
 ---
 
-Wangshu Tan is now a PhD candidate in atmospheric physics and atmospheric environment at the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, China. He is working on a project about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
+Wangshu Tan is now a PhD candidate in atmospheric physics and atmospheric environment at the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, China.
+He is working on a project about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
