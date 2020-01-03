@@ -5,9 +5,8 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#pubs"
   weight = 40
-
 
 [[main]]
   name = "Contact"
