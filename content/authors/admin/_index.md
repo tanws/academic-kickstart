@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Atmosheric Physics
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University
+- name: Peking University
   url: "http://www.atmos.pku.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)

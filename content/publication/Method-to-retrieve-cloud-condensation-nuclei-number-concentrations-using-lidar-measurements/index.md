@@ -22,7 +22,7 @@ publication_short: "Atmos. Meas. Tech."
 abstract: "Determination of cloud condensation nuclei (CCN) number concentrations at cloud base is important to constrain aerosol–cloud interactions. A new method to retrieve CCN number concentrations using backscatter and extinction profiles from multiwavelength Raman lidars is proposed. The method implements hygroscopic enhancements of backscatter and extinction with relative humidity to derive dry backscatter and extinction and humidogram parameters. Humidogram parameters, Ångström exponents, and lidar extinction-to-backscatter ratios are then linked to the ratio of CCN number concentration to dry backscatter and extinction coefficient (ARξ). This linkage is established based on the datasets simulated by Mie theory and κ-Köhler theory with in-situ-measured particle size distributions and chemical compositions. CCN number concentration can thus be calculated with ARξ and dry backscatter and extinction. An independent theoretical simulated dataset is used to validate this new method and results show that the retrieved CCN number concentrations at supersaturations of 0.07 %, 0.10 %, and 0.20 % are in good agreement with theoretical calculated values. Sensitivity tests indicate that retrieval error in CCN arises mostly from uncertainties in extinction coefficients and RH profiles. The proposed method improves CCN retrieval from lidar measurements and has great potential in deriving scarce long-term CCN data at cloud base, which benefits aerosol–cloud interaction studies."
 
 # Summary. An optional shortened abstract.
-summary: "A new method to retrieve CCN number concentrations using multiwavelength Raman lidars is proposed. The method implements hygroscopic enhancements of backscatter and extinction with relative humidity to represent particle hygroscopicity. The retrieved CCN number concentrations are in good agreement with theoretical calculated values. Sensitivity tests indicate that retrieval error in CCN arises mostly from uncertainties in extinction coefficients and RH profiles"
+summary: "A new method to retrieve CCN number concentrations using multiwavelength Raman lidars is proposed. The method implements hygroscopic enhancements of backscatter and extinction with relative humidity to represent particle hygroscopicity. The retrieved CCN number concentrations are in good agreement with theoretical calculated values. Sensitivity tests indicate that retrieval error in CCN arises mostly from uncertainties in extinction coefficients and RH profiles."
 
 tags: []
 categories: []
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
