@@ -60,7 +60,7 @@ social:
    link: files/CV_WSTan.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tanws@pku.edu.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
