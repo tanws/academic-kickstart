@@ -21,10 +21,10 @@ organizations:
 bio:
 
 interests:
-- Aerosol optical and radiative properties
-- Aerosol-cloud-radiation interactions
+- Aerosol optical properties
+- Aerosol-cloud interactions
 - Remote sensing and in situ observations of aerosols and clouds
-- Microphysics processes in clouds
+- Cloud microphysics
 - Global climate change
 
 education:
