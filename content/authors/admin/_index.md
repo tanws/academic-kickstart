@@ -18,7 +18,7 @@ organizations:
   url: "https://atmos.pku.edu.cn/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My working on a research about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
+#bio: My working on a research about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
 
 interests:
 - Aerosol optical and radiative properties
@@ -55,9 +55,9 @@ social:
   link: https://github.com/tanws
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
