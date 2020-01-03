@@ -3,7 +3,7 @@
 
 title: "Retrieval of Aerosol Profiles by Raman Lidar With Dynamic Determination of the Lidar Equation Reference Height"
 authors: ["Jian Li","Chengcai Li","Jianping Guo","Jing Li","Wangshu Tan","Ling Kang","Dandan Chen","Tao Song","Lin Liu"]
-date: 2018-11-20T00:00:00+08:00
+date: 2019-02-15T00:00:00+08:00
 doi: "10.1016/j.atmosenv.2018.11.048"
 
 # Schedule page publish date (NOT publication's date).

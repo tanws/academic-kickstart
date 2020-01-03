@@ -3,7 +3,7 @@
 
 title: "Seasonal and Diurnal Variability of Planetary Boundary Layer Height in Beijing: Intercomparison Between MPL and WRF Results"
 authors: ["Yiqi Chu","Jing Li","Chengcai Li","Wangshu Tan","Tianning Su","Jian Li"]
-date: 2019-04-17T00:00:00+08:00
+date: 2019-10-01T00:00:00+08:00
 doi: "10.1016/j.atmosres.2019.04.017"
 
 # Schedule page publish date (NOT publication's date).
