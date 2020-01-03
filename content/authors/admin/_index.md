@@ -25,7 +25,7 @@ interests:
 - Aerosol-cloud interactions
 - Remote sensing and in situ observations of aerosols and clouds
 - Cloud microphysics
-- Climate Change
+- Climate change
 
 education:
   courses:
