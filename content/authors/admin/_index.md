@@ -70,5 +70,3 @@ user_groups:
 ---
 
 Wangshu Tan is a PhD candidate in atmospheric physics at Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, Beijing, China.
-
-E-mail: tanws at pku.edu.cn
