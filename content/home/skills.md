@@ -13,6 +13,12 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = ""  
 
 [[feature]]
   icon = "python"
@@ -21,15 +27,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = ""  
-  
-#[[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Coding"
+  description = ""
 
 +++
