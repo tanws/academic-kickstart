@@ -3,7 +3,7 @@
 
 title: "Potential of Polarization Lidar to Profile the Urban Aerosol Phase State During Haze Episodes"
 authors: ["Wangshu Tan","Chengcai Li","Yuechen Liu","Xiangxinyue Meng","Zhijun Wu","Ling Kang","Tong Zhu"]
-date: 2019-12-12T00:00:00+08:00
+date: 2020-02-11T00:00:00+08:00
 doi: "10.1021/acs.estlett.9b00695"
 
 # Schedule page publish date (NOT publication's date).
