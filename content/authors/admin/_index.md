@@ -21,9 +21,8 @@ organizations:
 bio:
 
 interests:
-- Lidar remote sensing of atmosphere
-- Optical and radiative properties of aerosols and clouds
-- Aerosol-cloud-radiation interactions
+- Lidar remote sensing of atmospheric parameters
+- Interactions among aerosols, clouds, and radiation
 
 education:
   courses:
