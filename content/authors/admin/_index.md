@@ -10,17 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Post-Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Peking University
-  url: "http://www.atmos.pku.edu.cn/en/"
+- name: Beijing Institute of Technology
+  url: "https://english.bit.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
+- Lidar remote sensing
 - Aerosol optical properties
 - Aerosol-cloud interactions
 - Remote sensing and in situ observations of aerosols and clouds
