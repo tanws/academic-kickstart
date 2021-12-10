@@ -21,12 +21,12 @@ organizations:
 bio:
 
 interests:
-- Lidar remote sensing
-- Aerosol optical properties
-- Aerosol-cloud interactions
+- Lidar remote sensing of atmosphere
+- Aerosol optical and radiative properties
+- Aerosol-cloud-radiation interactions
 - Remote sensing and in situ observations of aerosols and clouds
-- Cloud microphysics
-- Climate change
+- Microphysics processes in clouds
+- Global climate change
 
 education:
   courses:
@@ -82,5 +82,5 @@ user_groups:
 - Visitors
 ---
 
-Wangshu Tan is now a PhD candidate in atmospheric physics and atmospheric environment at the Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, China.
-He is working on a project about profiling optical and microphysical properties, phase state, and liquid water content of aerosols using a multiwavelength polarized Raman-Mie scattering lidar.
+Wangshu Tan currently works at School of Optics and Photonics, Beijing Institute of Technology as a post-doctoral researcher. His research interest is lidar remote sensing of atmospheric parameters (e.g. temperature, wind, aerosols, clouds, and water vapor) and their impacts on environment, weather, and climate.
+Wangshu is looking for collaborators on lidar remote sensing of atmospheric parameters and corresponding applications.
