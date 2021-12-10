@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impacts of Meteorology and Emission Control on the Abnormally Low Particulate Matter Concentration Observed During the Winter of 2017"
-authors: []
-date: 2021-12-10T11:33:44+08:00
-doi: ""
+authors: ["Xianjun Xu","Zhongjing Jiang","Jing Li","Yiqi Chu","Wangshu Tan","Chengcai Li"]
+date: 2020-02-28T00:00:00+08:00
+doi: "10.1016/j.atmosenv.2020.117377"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-12-10T11:33:44+08:00
@@ -16,10 +16,10 @@ publishDate: 2021-12-10T11:33:44+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Atmospheric Environment"
+publication_short: "Atmos. Environ."
 
-abstract: ""
+abstract: "As the capital of China, Beijing is the subject of great concern regarding atmospheric pollution, especially that of fine particulate matter (PM2.5). In winter 2017 (i.e., November 2017 to February 2018), PM2.5 concentration in Beijing decreased to its lowest value in the past ten years. In this study, we sought to investigate the impacts of meteorology and emission control on this abnormally low pollution phenomenon. Weather Research and Forecasting coupled with Chemistry (WRF-Chem) simulations show that sensitivity to meteorological factors accounts for approximately 51% of the observed change between winters 2016 and 2017 in Beijing. We further compared the pollution dispersion condition of winters 2016 and 2017 in terms of large-scale circulation patterns and local mixing layer heights (MLHs). The meteorological condition in 2017 was characterized by stronger wind speed (WS) and higher MLH. We classified circulation patterns into two types using the obliquely rotated Principal Component Analysis in T-mode (T-PCA) method. Active weather was found to be associated with high MLH, high near-surface WS, and high ventilation coefficient (VC), which favors the dispersion of pollutants. In contrast, the changes of meteorological variables and pollution conditions are almost opposite for stable weather. Active weather amounted to 73 and 85 days for winters 2016 and 2017, respectively. Stable weather conditions prevailed on 46 days in winter 2016, and 32 days in 2017. Less stable weather during winter 2017 compared with that of winter 2016 possibly favored efficient ventilation of boundary-layer pollution. A lack of persistent stable weather also contributed to low PM2.5 concentration in 2017. This research is important for air-pollution assessment and regional environmental management."
 
 # Summary. An optional shortened abstract.
 summary: ""
