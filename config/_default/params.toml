@@ -90,7 +90,7 @@ address = {street = "No. 5, South Street, Zhongguancun", city = "Haidian", regio
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.96292", longitude = "116.30690"}
+coordinates = {latitude = "39.96241", longitude = "116.30523"}
 
 # Directions for visitors to locate you.
 directions = "Room 438, Building No. 6, North District, Zhongguancun Campus, Beijing Institute of Technology"
