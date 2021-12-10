@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/tanws/academic-kickstart", content_d
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tanws@pku.edu.cn"
-phone = "+86(10)84830595"
+email = "tanws@bit.edu.cn"
+phone = "+86(10)68918398"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "209 Chengfu Road", city = "Haidian", region = "Beijing", postcode = "100871", country = "China", country_code = "CN"}
+address = {street = "No. 5, South Street, Zhongguancun", city = "Haidian", region = "Beijing", postcode = "100081", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.99176", longitude = "116.31117"}
+coordinates = {latitude = "39.96423", longitude = "116.31032"}
 
 # Directions for visitors to locate you.
-directions = "Room N527, Physics Building, School of Physics, Peking University"
+directions = "Room 438, Building No. 6, North District, Zhongguancun Campus, Beijing Institute of Technology"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
