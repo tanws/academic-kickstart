@@ -3,7 +3,7 @@
 
 title: "Impacts of Meteorology and Emission Control on the Abnormally Low Particulate Matter Concentration Observed During the Winter of 2017"
 authors: ["Xianjun Xu","Zhongjing Jiang","Jing Li","Yiqi Chu","Wangshu Tan","Chengcai Li"]
-date: 2020-02-28T00:00:00+08:00
+date: 2020-03-15T00:00:00+08:00
 doi: "10.1016/j.atmosenv.2020.117377"
 
 # Schedule page publish date (NOT publication's date).
