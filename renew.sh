@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-git submodule add -f -b master https://github.com/tanws/tanws.github.io.git public
+git submodule add -f -b master ssh://github.com/tanws/tanws.github.io.git public
 git add .
 git commit -m "Initial commit"
 git push -u origin master
